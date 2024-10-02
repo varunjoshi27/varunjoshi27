@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Varun Joshi, a passionate pre final year B.Tech CSE student at SRMU. I'm deeply interested in Data Structures and Algorithms (DSA), Java, and Web Development<br>Learning DSA using Java with a focus on mastering arrays, searching algorithms, and more.<br>Exploring real-world applications of web development technologies like HTML, CSS, JavaScript, and Node.js.
+Hello! I'm Varun Joshi, a passionate Pre final year B.Tech CSE student at SRMU. I'm deeply interested in Data Structures and Algorithms (DSA), Java, and Web Development<br>Learning DSA using Java with a focus on mastering arrays, searching algorithms, and more.<br>Exploring real-world applications of web development technologies like HTML, CSS, JavaScript, and Node.js.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Va_run5061) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-joshi-751358249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Varunjoshi04) 
