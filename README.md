@@ -25,12 +25,6 @@ const varunJoshi = {
   status: "Fresh Graduate | Actively Seeking Opportunities",
   location: "India 🇮🇳",
   
-  education: {
-    degree: "Bachelor's in Computer Science/Engineering",
-    year: "2024",
-    cgpa: "8.5/10"
-  },
-  
   expertise: {
     languages: ["JavaScript", "Python", "Java", "C++", "HTML5", "CSS3"],
     frontend: ["React.js", "Vue.js", "TypeScript", "Next.js"],
@@ -149,68 +143,13 @@ const varunJoshi = {
   <img src="https://github-profile-trophy.vercel.app/?username=varunjoshi27&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
-### **Academic & Professional Milestones**
-- 🎓 **Graduated** with Bachelor's degree in Computer Science/Engineering
-- 💻 **Built 12+ projects** showcasing various technologies
-- 📚 **Completed 15+ online courses** in software development
-- 🌟 **Contributed to 5+ open source projects**
-- 🏅 **Solved 200+ coding problems** on competitive platforms
-- 🎯 **Achieved 90%+ scores** in technical assessments
-- 🚀 **Deployed 8+ applications** to production
-
----
-
 ## 🔥 Featured Projects
 
-### 🛒 **E-Commerce Platform** (Featured Project)
-**Tech Stack:** React.js, Node.js, MongoDB, Express.js, Stripe API  
-**Features:** User authentication, product management, payment integration, order tracking  
-**Status:** Complete | **[Live Demo](https://varunjoshi-ecommerce.vercel.app)** | **[Source Code](https://github.com/varunjoshi27/e-commerce-platform)**
-
-**Key Achievements:**
-- Implemented secure payment processing with Stripe
-- Built responsive design for all device types
-- Integrated real-time order tracking system
-- Optimized for 95+ performance score on Lighthouse
-
-### 🤖 **AI-Powered Task Manager**
-**Tech Stack:** Python, Flask, TensorFlow, React.js, PostgreSQL  
-**Features:** Smart task categorization, priority prediction, deadline optimization  
-**[Live Demo](https://varunjoshi-ai-tasks.herokuapp.com)** | **[Source Code](https://github.com/varunjoshi27/ai-task-manager)**
 
 ### 🌍 **Weather Analytics Dashboard**
 **Tech Stack:** Vue.js, D3.js, Node.js, OpenWeather API  
 **Features:** Real-time weather data, interactive charts, location-based forecasts  
 **[Live Demo](https://varunjoshi-weather.netlify.app)** | **[Source Code](https://github.com/varunjoshi27/weather-dashboard)**
-
-### 📊 **Data Visualization Tool**
-**Tech Stack:** Python, Django, Chart.js, PostgreSQL  
-**Features:** CSV upload, interactive charts, data export, dashboard creation  
-**[Live Demo](https://varunjoshi-dataviz.herokuapp.com)** | **[Source Code](https://github.com/varunjoshi27/data-visualization)**
-
-### 🎮 **Real-time Chat Application**
-**Tech Stack:** React.js, Socket.io, Node.js, MongoDB  
-**Features:** Real-time messaging, group chats, file sharing, emoji support  
-**[Live Demo](https://varunjoshi-chat.vercel.app)** | **[Source Code](https://github.com/varunjoshi27/realtime-chat)**
-
----
-
-## 📈 Learning Journey Timeline
-
-```mermaid
-gitgraph
-    commit id: "Started Programming Journey"
-    commit id: "Mastered Core Languages"
-    commit id: "Built First Full-Stack App"
-    branch specialization
-    checkout specialization
-    commit id: "Exploring AI/ML"
-    commit id: "Learning Cloud Technologies"
-    commit id: "Contributing to Open Source"
-    checkout main
-    merge specialization
-    commit id: "Ready for Industry Impact!"
-```
 
 ---
 
