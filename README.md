@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Varun%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Varun%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descSize=20" />
 </p>
 
 <!-- Typing Animation -->
@@ -12,7 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer and problem solver, currently in my final year of B.Tech in Computer Science. I thrive on building innovative solutions and exploring how technology can solve real-world challenges. With a strong foundation in programming, web development, and data structures, I enjoy turning ideas into functional, user-friendly applications. I'm always eager to learn and experiment with new technologies to stay ahead in this fast-evolving field. As I approach graduation, I’m excited to contribute to impactful projects, grow with industry experience, and make my mark in the tech world.
+Final-year B.Tech CSE student 👨‍💻 passionate about building smart, real-world solutions 💡.
+Always learning 📚, coding 🛠️, and ready to make an impact in the tech world 🚀.
+
+
 ---
 
 ## 👨‍💻 Profile Overview
