@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Varun%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Fresh%20Graduate&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Varun%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20&descAlignY=51&descSize=20" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Developer+%7C+Fresh+Graduate;Building+Modern+Applications+%26+Beautiful+Solutions;Turning+Ideas+into+Digital+Reality;Code+%2B+Creativity+%2B+Innovation+%3D+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Developer+%7C+;Building+Modern+Applications+%26+Beautiful+Solutions;Turning+Ideas+into+Digital+Reality;Code+%2B+Creativity+%2B+Innovation+%3D+%E2%9C%A8" />
 </p>
 
 ---
