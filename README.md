@@ -12,8 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate Developer** and **problem solver** who recently graduated and is eager to make my mark in the tech industry. I love creating innovative solutions and am constantly learning new technologies to stay ahead of the curve.
-
+I'm a passionate developer and problem solver, currently in my final year of B.Tech in Computer Science. I thrive on building innovative solutions and exploring how technology can solve real-world challenges. With a strong foundation in programming, web development, and data structures, I enjoy turning ideas into functional, user-friendly applications. I'm always eager to learn and experiment with new technologies to stay ahead in this fast-evolving field. As I approach graduation, I’m excited to contribute to impactful projects, grow with industry experience, and make my mark in the tech world.
 ---
 
 ## 👨‍💻 Profile Overview
@@ -26,11 +25,11 @@ const varunJoshi = {
   location: "India 🇮🇳",
   
   expertise: {
-    languages: ["JavaScript", "Python", "Java", "C++", "HTML5", "CSS3"],
-    frontend: ["React.js", "Vue.js", "TypeScript", "Next.js"],
-    backend: ["Node.js", "Express.js", "Django", "Flask"],
+    languages: ["JavaScript", "Java", "HTML5", "CSS3"],
+    frontend: ["React.js", "TypeScript", "Next.js"],
+    backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-    tools: ["Git", "GitHub", "VS Code", "Docker", "AWS", "Figma"],
+    tools: ["Git", "GitHub", "VS Code", "Figma", "Creatie"],
     learning: ["Machine Learning", "Cloud Computing", "DevOps", "Blockchain"]
   },
   
@@ -45,7 +44,7 @@ const varunJoshi = {
     "Contribute to 10+ open source projects",
     "Build 15+ impressive portfolio projects",
     "Master cloud technologies (AWS/Azure)",
-    "Learn advanced system design concepts"
+    "Learn advanced system design concepts."
   ],
   
   strengths: [
@@ -75,7 +74,6 @@ const varunJoshi = {
 ### **Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -86,8 +84,7 @@ const varunJoshi = {
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
 </p>
 
 ### **Databases**
@@ -103,17 +100,7 @@ const varunJoshi = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### **Currently Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
 </p>
 
 ---
@@ -147,7 +134,7 @@ const varunJoshi = {
 ### 🌍 **Weather Analytics Dashboard**
 **Tech Stack:** Vue.js, D3.js, Node.js, OpenWeather API  
 **Features:** Real-time weather data, interactive charts, location-based forecasts  
-**[Live Demo](https://varunjoshi-weather.netlify.app)** | **[Source Code](https://github.com/varunjoshi27/weather-dashboard)**
+**[Live Demo](https://weather-cardinfo.netlify.app/)** | **[Source Code](https://github.com/varunjoshi27/Weather_App)**
 
 ---
 
@@ -160,7 +147,6 @@ const varunJoshi = {
 - **Skill Enhancement:** Deep dive into system design and scalability
 - **Project Development:** Complete 2 industry-level applications
 - **Open Source:** Become a regular contributor to major projects
-- **Certification:** Obtain AWS/Azure cloud certification
 - **Networking:** Connect with industry professionals and join tech communities
 </details>
 
@@ -168,8 +154,6 @@ const varunJoshi = {
 <summary><b>📚 Learning Roadmap (Next 6 months)</b></summary>
 
 - **Advanced Backend:** Microservices architecture and API design
-- **Cloud Computing:** Master AWS/Azure services and deployment strategies
-- **DevOps:** CI/CD pipelines, containerization, and monitoring tools
 - **Data Science:** Advanced analytics and machine learning implementation
 - **Mobile Development:** React Native or Flutter for cross-platform apps
 - **Performance:** Web optimization, caching strategies, and scalability
@@ -191,30 +175,17 @@ const varunJoshi = {
 ## 🏅 Certifications & Courses
 
 **Completed:**
-- 🎓 **Complete Software Development Bootcamp** - Udemy
-- ☁️ **AWS Cloud Practitioner** - Amazon Web Services
-- 🐍 **Python for Data Science** - Coursera/IBM
-- ⚛️ **Advanced React Development** - Meta/Facebook
-- 🔐 **Web Security Fundamentals** - OWASP
-- 📱 **Responsive Web Design** - freeCodeCamp
-
-**In Progress:**
-- 🚀 **AWS Solutions Architect Associate** - Amazon Web Services
-- 🤖 **Machine Learning Specialization** - Stanford/Coursera
-- 📊 **Google Cloud Professional** - Google Cloud Platform
-- 🔧 **DevOps Engineering** - Linux Foundation
-
-**Planned for 2025:**
-- 🌐 **Kubernetes Administrator** - CNCF
-- 📈 **System Design Interview** - Educative
-- 🛡️ **Certified Ethical Hacker** - EC-Council
-
+- 🎓 **JavaScript Bootcamp** - Great Learning Academy
+- ⚛️ **Java Bootcamp** - Great Learning Academy
+- 📱 **Responsive Web Design** - L&T Edutech
+- 🌐 **Full Stack Web Dev Bootcamp** - L&T Edutech
+  
 ---
 
 ## 💡 What Makes Me Different
 
 ### **🎯 Problem-Solving Mindset**
-I approach every challenge with analytical thinking and break down complex problems into manageable, scalable solutions.
+I approach every challenge with analytical thinking, breaking down complex problems into manageable and scalable solutions.
 
 ### **🚀 Continuous Learning Culture**
 Technology evolves rapidly, and I dedicate 2+ hours daily to learning new tools, frameworks, and industry best practices.
@@ -230,25 +201,13 @@ Strong communication skills and experience working in agile environments with cr
 
 ---
 
-## 📝 Recent Contributions & Technical Writing
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Scalable MERN Applications: My Complete Guide](https://dev.to/varunjoshi27)
-- 🤖 [Integrating Machine Learning APIs in React Applications](https://medium.com/@varunjoshi27)
-- ☁️ [AWS Deployment Strategies: From Local to Production](https://hashnode.com/@varunjoshi27)
-- 🚀 [My Journey Contributing to Open Source: Tips for Beginners](https://dev.to/varunjoshi27)
-- 🎯 [Optimizing React Performance: Real-world Techniques](https://medium.com/@varunjoshi27)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌐 Let's Connect & Collaborate!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varun-joshi-751358249">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:varunjoshi.dev27@gmail.com">
+  <a href="mailto:varunjoshi1127@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/Varunjoshi04">
@@ -257,10 +216,10 @@ Strong communication skills and experience working in agile environments with cr
   <a href="https://instagram.com/Va_run5061">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://dev.to/varunjoshi27">
+  <a href="https://dev.to/varun_joshi_">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://portfolio-varunjoshi.vercel.app">
+  <a href="https://varunjoshi27.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -286,22 +245,8 @@ Strong communication skills and experience working in agile environments with cr
 
 ### **Educational Excellence**
 - **Degree:** Bachelor of Technology in Computer Science
-- **University:** [Your University Name]
-- **CGPA:** 8.5/10.0
-- **Year:** 2024
-
-### **Academic Projects**
-- 🏆 **Final Year Project:** AI-powered recommendation system
-- 📊 **Data Structures:** Implemented advanced algorithms in C++
-- 🌐 **Web Development:** Built multiple full-stack applications
-- 🤖 **Machine Learning:** Developed predictive models using Python
-
-### **Extracurricular Activities**  
-- 💻 **Coding Club President** - Organized hackathons and workshops
-- 🏅 **Competitive Programming** - Ranked in top 10% on CodeChef
-- 🎤 **Tech Speaker** - Presented at university tech symposiums
-- 🤝 **Community Volunteer** - Taught programming to underprivileged students
-
+- **University:** Shri Ramswaroop Memorial University
+  
 ---
 
 ## ☕ Support My Learning Journey
@@ -326,21 +271,17 @@ Strong communication skills and experience working in agile environments with cr
 
 ### **GitHub Activity Summary**
 - 📝 **Total Repositories:** 25+ (Public & Private)
-- ⭐ **Stars Earned:** 150+ across all repositories
 - 🔧 **Languages Used:** 8+ programming languages
 - 📈 **Contribution Streak:** Maintaining daily commits
-- 🌟 **Open Source:** Active contributor to 10+ projects
 
 ---
 
 ## 🎯 Fun Facts & Personal Insights
 
-- 🌅 **Early Bird:** I'm most productive during 6-9 AM with a fresh cup of coffee ☕
+- 🌙 Night Owl: I hit peak productivity between 10 PM and 1 AM when the world is quiet and the ideas flow best 
 - 🎮 **Gaming Enthusiast:** I enjoy strategic games and puzzle-solving to sharpen problem-solving skills
 - 📚 **Tech Reader:** I consume 5+ tech articles daily and follow industry leaders on Twitter
-- 🎵 **Coding Playlist:** I code with lo-fi hip-hop or ambient music for maximum focus
 - 🌱 **Growth Mindset:** I believe in the 1% better every day philosophy
-- 🤝 **Community First:** I love helping beginners and contributing back to the developer community
 - 🏃‍♂️ **Work-Life Balance:** Regular exercise and outdoor activities keep me energized
 - 🧩 **Problem Solver:** I approach coding challenges like puzzles - there's always an elegant solution
 - 🌍 **Global Perspective:** I follow tech trends worldwide and love learning from diverse cultures
@@ -382,4 +323,5 @@ Strong communication skills and experience working in agile environments with cr
 
 ---
 
-**Last Updated:** June 2025 | **Built with** ❤️ **and endless** ☕ **by Varun Joshi**
+**Built with** ❤️ and endless ☕ by Varun Joshi
+
