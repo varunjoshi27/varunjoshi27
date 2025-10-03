@@ -1,330 +1,218 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Varun%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descSize=20" />
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Developer;Building+Modern+Applications+%26+Beautiful+Solutions;Turning+Ideas+into+Digital+Reality;Code+%2B+Creativity+%2B+Innovation+%3D+%E2%9C%A8" />
-</p>
+# 👋 Hey, I'm Varun Joshi
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Code+Craftsman)](https://git.io/typing-svg)
 
-## 🚀 About Me
+**`Final-year CS Student • Building Production-Ready Apps • Always Learning`**
 
-Final-year B.Tech CSE student 👨‍💻 passionate about building smart, real-world solutions 💡.
-Always learning 📚, coding 🛠️, and ready to make an impact in the tech world 🚀.
-
+</div>
 
 ---
 
-## 👨‍💻 Profile Overview
+## 🚀 What I'm Up To
+
+**Currently working on:** Building production-ready full-stack applications  
+**Learning:** System Design • Cloud Architecture • DevOps  
+**Open to:** Full-time opportunities and interesting collaborations
+
+I'm passionate about writing clean, efficient code and turning ideas into scalable solutions. Whether it's crafting intuitive UIs or architecting robust backends, I love the entire process of building software that matters.
+
+---
+
+## 🧰 My Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+🎨 React • Next.js • Vue.js  
+💅 TypeScript • JavaScript  
+🎯 Tailwind CSS • Responsive Design
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+⚡ Node.js • Express  
+🗃️ MongoDB • PostgreSQL  
+🔥 Firebase • MySQL  
+
+</td>
+<td valign="top" width="33%">
+
+### Tools & More
+🛠️ Git • GitHub • Docker  
+📝 VS Code • Figma  
+☁️ Learning AWS & Azure
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 My Coding Journey
+
+<div align="center">
+
+### 📈 Activity & Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunjoshi27&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+
+### 🔥 GitHub Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=varunjoshi27&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi27&theme=react&hide_border=true"/>
+
+### 💻 Languages & Code Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjoshi27&layout=compact&theme=react&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 🎯 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌦️ Weather Analytics Dashboard
+**Real-time weather visualization with interactive data**
+
+Built with Vue.js, D3.js, and Node.js. Features dynamic charts, location-based forecasts, and beautiful UI.
+
+**Tech:** Vue.js • D3.js • Node.js • OpenWeather API
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://weather-cardinfo.netlify.app/)
+[![Source Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/varunjoshi27/Weather_App)
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects Coming Soon
+**Currently building exciting full-stack applications**
+
+Working on production-ready projects that solve real problems. Stay tuned for updates!
+
+**Focus Areas:**
+- MERN Stack Applications
+- Real-time Collaboration Tools
+- Developer Productivity Tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Beyond The Code
 
 ```javascript
-const varunJoshi = {
-  name: "Varun Joshi",
-  title: "Software Developer & Problem Solver",
-  status: "Fresh Graduate | Actively Seeking Opportunities",
+const varun = {
+  pronouns: "he/him",
   location: "India 🇮🇳",
-  
-  expertise: {
-    languages: ["JavaScript", "Java", "HTML5", "CSS3"],
-    frontend: ["React.js", "TypeScript", "Next.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-    tools: ["Git", "GitHub", "VS Code", "Figma", "Creatie"],
-    learning: ["Machine Learning", "Cloud Computing", "DevOps", "Blockchain"]
-  },
-  
-  currentProjects: [
-    "🚀 Full-stack Web Application with MERN Stack",
-    "🤖 Machine Learning Model for Data Analysis",
-    "📱 Mobile-First Responsive Web App"
-  ],
-  
-  goals2025: [
-    "Land my first software developer role",
-    "Contribute to 10+ open source projects",
-    "Build 15+ impressive portfolio projects",
-    "Master cloud technologies (AWS/Azure)",
-    "Learn advanced system design concepts."
-  ],
-  
-  strengths: [
-    "Quick learner with analytical mindset",
-    "Strong problem-solving and debugging skills",
-    "Clean, efficient, and maintainable code",
-    "Team player with excellent communication"
-  ],
-  
-  languages: ["English", "Hindi"],
-  interests: ["Software Development", "AI/ML", "Open Source", "Tech Innovation"],
-  motto: "Code with purpose, learn with passion! 🚀"
+  education: "B.Tech in Computer Science",
+  workStyle: "Night owl 🦉 - Peak productivity: 10 PM - 1 AM",
+  philosophy: "Write code that speaks for itself",
+  interests: ["Problem Solving", "System Design", "Open Source", "Tech Innovation"],
+  funFact: "I debug better at midnight with coffee ☕"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🏆 Achievements & Recognition
 
-### **Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<div align="center">
 
-### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=varunjoshi27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
-### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-</p>
-
-### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>
-
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Journey
+## 🤝 Let's Build Something Together
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunjoshi27&bg_color=0d1117&color=9f9f9f&line=00ffe4&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunjoshi27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi27&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
+I'm always excited to collaborate on interesting projects, contribute to open source, or just chat about tech!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjoshi27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-joshi-751358249)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Varunjoshi04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://varunjoshi27.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:varunjoshi1127@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/varun_joshi_)
 
----
+### 💼 Open to Opportunities
 
-## 🏆 Achievements & Milestones
+✨ Software Developer Roles • 🤝 Freelance Projects • 🌱 Open Source Collaborations
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunjoshi27&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
-</p>
-
-## 🔥 Featured Projects
-
-
-### 🌍 **Weather Analytics Dashboard**
-**Tech Stack:** Vue.js, D3.js, Node.js, OpenWeather API  
-**Features:** Real-time weather data, interactive charts, location-based forecasts  
-**[Live Demo](https://weather-cardinfo.netlify.app/)** | **[Source Code](https://github.com/varunjoshi27/Weather_App)**
+</div>
 
 ---
 
-## 🎯 Current Focus & Goals
+## 📚 What I'm Reading & Learning
 
-<details>
-<summary><b>🚀 Immediate Goals (Next 3 months)</b></summary>
-
-- **Job Search:** Actively pursuing software developer opportunities
-- **Skill Enhancement:** Deep dive into system design and scalability
-- **Project Development:** Complete 2 industry-level applications
-- **Open Source:** Become a regular contributor to major projects
-- **Networking:** Connect with industry professionals and join tech communities
-</details>
-
-<details>
-<summary><b>📚 Learning Roadmap (Next 6 months)</b></summary>
-
-- **Advanced Backend:** Microservices architecture and API design
-- **Data Science:** Advanced analytics and machine learning implementation
-- **Mobile Development:** React Native or Flutter for cross-platform apps
-- **Performance:** Web optimization, caching strategies, and scalability
-</details>
-
-<details>
-<summary><b>🌟 Long-term Vision (1-2 years)</b></summary>
-
-- **Career Growth:** Establish myself as a senior developer
-- **Technical Leadership:** Lead development teams and mentor junior developers
-- **Innovation:** Contribute to cutting-edge technology solutions
-- **Community Impact:** Speak at conferences and write technical content
-- **Entrepreneurship:** Explore startup opportunities in the tech space
-- **Specialization:** Become an expert in cloud-native applications
-</details>
+**Currently exploring:**
+- 📖 *Designing Data-Intensive Applications* by Martin Kleppmann
+- 🎓 System Design Fundamentals
+- ☁️ AWS Solutions Architect Path
+- 🔧 Advanced TypeScript Patterns
 
 ---
 
-## 🏅 Certifications & Courses
+## 🎨 Tech Stack Visualized
 
-**Completed:**
-- 🎓 **JavaScript Bootcamp** - Great Learning Academy
-- ⚛️ **Java Bootcamp** - Great Learning Academy
-- 📱 **Responsive Web Design** - L&T Edutech
-- 🌐 **Full Stack Web Dev Bootcamp** - L&T Edutech
-  
----
+**Frontend Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 💡 What Makes Me Different
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### **🎯 Problem-Solving Mindset**
-I approach every challenge with analytical thinking, breaking down complex problems into manageable and scalable solutions.
+**Databases & Cloud**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### **🚀 Continuous Learning Culture**
-Technology evolves rapidly, and I dedicate 2+ hours daily to learning new tools, frameworks, and industry best practices.
-
-### **🔧 Full-Stack Capabilities**
-From database architecture to user interface design, I can work across the entire technology stack to deliver complete solutions.
-
-### **📊 Data-Driven Development**
-I believe in making informed decisions backed by performance metrics, user analytics, and A/B testing results.
-
-### **🤝 Collaborative Team Player**
-Strong communication skills and experience working in agile environments with cross-functional teams.
-
----
-
-## 🌐 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/varun-joshi-751358249">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:varunjoshi1127@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/Varunjoshi04">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/Va_run5061">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://dev.to/varun_joshi_">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://varunjoshi27.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-### 💼 **I'm Currently Looking For:**
-- 🚀 **Software Developer** positions (Entry to Mid-level)
-- 🤝 **Internship opportunities** at innovative tech companies
-- 👥 **Collaboration** on exciting open-source projects
-- 🌱 **Mentorship** from experienced industry professionals
-- 💡 **Freelance opportunities** to expand my portfolio and skills
-
-### 📞 **Available For:**
-- 💻 **Full-stack development** projects and consulting
-- 🤖 **AI/ML integration** and implementation solutions
-- 🤝 **Open source** contributions and community projects
-- 📚 **Technical mentoring** for coding bootcamp students
-- ☕ **Tech discussions**, code reviews, and networking
-- 🎤 **Speaking** at tech meetups and conferences
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🎓 Academic Background & Achievements
+<div align="center">
 
-### **Educational Excellence**
-- **Degree:** Bachelor of Technology in Computer Science
-- **University:** Shri Ramswaroop Memorial University
-  
----
+### 💭 Random Dev Quote
 
-## ☕ Support My Learning Journey
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/varunjoshi27">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-*Your support helps me dedicate more time to open source contributions, learning new technologies, and creating helpful content for the developer community!*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📊 Profile Analytics & Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=varunjoshi27&color=0e75b6&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/varunjoshi27?label=Followers&style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/varunjoshi27?label=Total%20Stars&style=flat-square&color=yellow)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunjoshi27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/varunjoshi27?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/varunjoshi27?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
-</p>
+**"First, solve the problem. Then, write the code."** - John Johnson
 
-### **GitHub Activity Summary**
-- 📝 **Total Repositories:** 25+ (Public & Private)
-- 🔧 **Languages Used:** 8+ programming languages
-- 📈 **Contribution Streak:** Maintaining daily commits
+*Thanks for visiting! If you find my work interesting, feel free to ⭐ star my repositories!*
 
----
+**Let's connect and build something amazing together!** 🚀
 
-## 🎯 Fun Facts & Personal Insights
-
-- 🌙 Night Owl: I hit peak productivity between 10 PM and 1 AM when the world is quiet and the ideas flow best 
-- 🎮 **Gaming Enthusiast:** I enjoy strategic games and puzzle-solving to sharpen problem-solving skills
-- 📚 **Tech Reader:** I consume 5+ tech articles daily and follow industry leaders on Twitter
-- 🌱 **Growth Mindset:** I believe in the 1% better every day philosophy
-- 🏃‍♂️ **Work-Life Balance:** Regular exercise and outdoor activities keep me energized
-- 🧩 **Problem Solver:** I approach coding challenges like puzzles - there's always an elegant solution
-- 🌍 **Global Perspective:** I follow tech trends worldwide and love learning from diverse cultures
-- 📱 **Tech Minimalist:** I believe in writing clean, efficient code that serves real user needs
-
----
-
-## 🔮 Future Aspirations
-
-### **Short-term (Next Year)**
-- 💼 Secure a challenging role at a product-based tech company
-- 🚀 Launch my own SaaS product to solve real-world problems
-- 📝 Start a technical blog with 10,000+ monthly readers
-- 🎤 Speak at major tech conferences and meetups
-
-### **Long-term (Next 5 Years)**  
-- 🏢 Lead a development team and mentor junior developers
-- 🌟 Become a recognized expert in cloud-native technologies
-- 💡 Start a tech consultancy focused on scalable solutions
-- 🌍 Contribute to open-source projects that impact millions of users
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
-</p>
-
-<h3 align="center">
-  "The best time to plant a tree was 20 years ago. The second best time is now." 
-</h3>
-
-<p align="center">
-  <i>🌟 Thanks for visiting my profile! Let's connect and build something amazing together!</i>
-</p>
-
-<p align="center">
-  <strong>Ready to contribute, learn, and grow in the tech industry! 🚀</strong>
-</p>
-
----
-
-**Built with** ❤️ and endless ☕ by Varun Joshi
-
+</div>
