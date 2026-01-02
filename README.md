@@ -1,107 +1,144 @@
 <div align="center">
 
-# 👋 Hey, I'm Varun Joshi
+# 👋 Hi, I'm Varun Joshi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Code+Craftsman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Cloud+Enthusiast;Passionate+About+Clean+Code+%26+Design)](https://git.io/typing-svg)
 
-**`Final-year CS Student • Building Production-Ready Apps • Always Learning`**
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400px">
+
+**Software Engineer specializing in Full Stack Development**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-joshi-751358249)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://varunjoshi27.github.io/Portfolio/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Varunjoshi04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunjoshi1127@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 About Me
 
-**Currently working on:** Building production-ready full-stack applications  
-**Learning:** System Design • Cloud Architecture • DevOps  
-**Open to:** Full-time opportunities and interesting collaborations
+I'm a Full Stack Software Engineer with a passion for building elegant, scalable web applications. I specialize in modern JavaScript frameworks and cloud technologies, focusing on creating seamless user experiences backed by robust server architecture.
 
-I'm passionate about writing clean, efficient code and turning ideas into scalable solutions. Whether it's crafting intuitive UIs or architecting robust backends, I love the entire process of building software that matters.
+**What drives me:** Turning complex problems into simple, beautiful solutions. I believe great software is invisible to users but impactful in their lives.
 
----
-
-## 🧰 My Tech Arsenal
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-🎨 React • Next.js • Vue.js  
-💅 TypeScript • JavaScript  
-🎯 Tailwind CSS • Responsive Design
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-⚡ Node.js • Express  
-🗃️ MongoDB • PostgreSQL  
-🔥 Firebase • MySQL  
-
-</td>
-<td valign="top" width="33%">
-
-### Tools & More
-🛠️ Git • GitHub • Docker  
-📝 VS Code • Figma  
-☁️ Learning AWS & Azure
-
-</td>
-</tr>
-</table>
+- 💼 Building production-ready applications with React, Node.js, and cloud services
+- 🎯 Focused on writing clean, maintainable, and well-tested code
+- 🌱 Currently exploring advanced system design patterns and AWS architecture
+- 🤝 Open to collaborating on innovative projects and contributing to open source
+- 📚 Continuous learner with a growth mindset
 
 ---
 
-## 📊 My Coding Journey
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📈 Activity & Contributions
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunjoshi27&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🔥 GitHub Stats
+### Backend & Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=varunjoshi27&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi27&theme=react&hide_border=true"/>
-
-### 💻 Languages & Code Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjoshi27&layout=compact&theme=react&hide_border=true&langs_count=8"/>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Featured Work
+## 📊 GitHub Statistics
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varunjoshi27&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
+
+
+</div>
+
+## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌦️ Weather Analytics Dashboard
-**Real-time weather visualization with interactive data**
 
-Built with Vue.js, D3.js, and Node.js. Features dynamic charts, location-based forecasts, and beautiful UI.
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Type-Web_App-blue?style=flat-square" />
 
-**Tech:** Vue.js • D3.js • Node.js • OpenWeather API
+**A comprehensive weather application with real-time data visualization**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://weather-cardinfo.netlify.app/)
-[![Source Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/varunjoshi27/Weather_App)
+Built an interactive weather platform featuring location-based forecasts, dynamic charts powered by D3.js, and a clean, responsive interface. Integrated with OpenWeather API for accurate, real-time weather data across global locations.
+
+**Key Features:**
+- Real-time weather data and 7-day forecasts
+- Interactive data visualizations with D3.js
+- Location-based search with autocomplete
+- Responsive design for all devices
+- Beautiful UI with smooth animations
+
+**Tech Stack:**  
+`Vue.js` `D3.js` `Node.js` `OpenWeather API` `Netlify`
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://weather-cardinfo.netlify.app/)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/varunjoshi27/Weather_App)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 More Projects Coming Soon
-**Currently building exciting full-stack applications**
+### 🛒 E-Commerce Platform
 
-Working on production-ready projects that solve real problems. Stay tuned for updates!
+<img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Full_Stack-blue?style=flat-square" />
 
-**Focus Areas:**
-- MERN Stack Applications
-- Real-time Collaboration Tools
-- Developer Productivity Tools
+**Full-featured online shopping platform with modern architecture**
+
+Developing a complete e-commerce solution with product catalog, shopping cart, user authentication, and payment processing. Features include advanced search and filtering, order management, and an intuitive admin dashboard.
+
+**Key Features:**
+- User authentication with JWT
+- Product catalog with search & filters
+- Shopping cart and wishlist functionality
+- Secure payment gateway integration
+- Admin dashboard for inventory management
+- Order tracking system
+
+**Tech Stack:**  
+`React` `Node.js` `Express` `MongoDB` `Stripe API`
+
+<div align="center">
+
+[![Coming Soon](https://img.shields.io/badge/🚀_Coming_Soon-FF6B35?style=for-the-badge)](https://github.com/varunjoshi27)
+
+</div>
 
 </td>
 </tr>
@@ -109,110 +146,52 @@ Working on production-ready projects that solve real problems. Stay tuned for up
 
 ---
 
-## 💡 Beyond The Code
+## 🎯 What I'm Working On
 
-```javascript
-const varun = {
-  pronouns: "he/him",
-  location: "India 🇮🇳",
-  education: "B.Tech in Computer Science",
-  workStyle: "Night owl 🦉 - Peak productivity: 10 PM - 1 AM",
-  philosophy: "Write code that speaks for itself",
-  interests: ["Problem Solving", "System Design", "Open Source", "Tech Innovation"],
-  funFact: "I debug better at midnight with coffee ☕"
-};
-```
+- 🔨 Building scalable full-stack applications using MERN stack
+- 📖 Deepening my understanding of system design and architecture patterns
+- ☁️ Exploring AWS services and cloud deployment strategies
+- 🧪 Implementing test-driven development practices
+- 📝 Writing technical articles on web development best practices
 
 ---
 
-## 🏆 Achievements & Recognition
+## 💡 My Approach
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+
+I believe in:
+- **Clean Code:** Writing readable, maintainable code that follows best practices
+- **User-Centric Design:** Building interfaces that are intuitive and delightful to use
+- **Continuous Learning:** Staying updated with the latest technologies and methodologies
+- **Collaboration:** Working effectively in teams and contributing to the developer community
+- **Problem-Solving:** Breaking down complex challenges into manageable solutions
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=varunjoshi27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+I'm always interested in discussing new projects, tech trends, or opportunities to collaborate.
 
-</div>
+**💼 Open to:** Full-time roles, freelance projects, and open-source collaborations
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-joshi-751358249)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://varunjoshi27.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunjoshi1127@gmail.com)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Varunjoshi04)
+[![Dev.to](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/varun_joshi_)
 
-## 🤝 Let's Build Something Together
+<br/>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=varunjoshi27&color=6366F1&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/varunjoshi27?label=Followers&style=for-the-badge&color=6366F1)
 
-I'm always excited to collaborate on interesting projects, contribute to open source, or just chat about tech!
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-joshi-751358249)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Varunjoshi04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://varunjoshi27.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:varunjoshi1127@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/varun_joshi_)
+**Thanks for visiting! Feel free to explore my repositories and reach out.** ⭐
 
-### 💼 Open to Opportunities
-
-✨ Software Developer Roles • 🤝 Freelance Projects • 🌱 Open Source Collaborations
-
-</div>
-
----
-
-## 📚 What I'm Reading & Learning
-
-**Currently exploring:**
-- 📖 *Designing Data-Intensive Applications* by Martin Kleppmann
-- 🎓 System Design Fundamentals
-- ☁️ AWS Solutions Architect Path
-- 🔧 Advanced TypeScript Patterns
-
----
-
-## 🎨 Tech Stack Visualized
-
-**Frontend Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend Development**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-**Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=varunjoshi27&color=0e75b6&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/varunjoshi27?label=Followers&style=flat-square&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/varunjoshi27?label=Total%20Stars&style=flat-square&color=yellow)
-
-**"First, solve the problem. Then, write the code."** - John Johnson
-
-*Thanks for visiting! If you find my work interesting, feel free to ⭐ star my repositories!*
-
-**Let's connect and build something amazing together!** 🚀
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
