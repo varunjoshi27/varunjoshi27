@@ -119,24 +119,4 @@ Production-deployed weather application with real-time data, thoughtful UX, and 
 - ✍️ Writing about engineering concepts on [LinkedIn](https://www.linkedin.com/in/varun-joshi-751358249) and [Twitter](https://x.com/Varunjoshi04)
 - 👀 Open to full-time Software Engineer and Full Stack Developer roles
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunjoshi27&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunjoshi27&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Available for full-time roles — Full Stack · Immediate joiner.**
-
-[LinkedIn](https://www.linkedin.com/in/varun-joshi-751358249) · [Portfolio](https://varunjoshi27.github.io/Portfolio/) · [varunjoshi1127@gmail.com](mailto:varunjoshi1127@gmail.com)
-
-</div>
