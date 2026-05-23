@@ -1,197 +1,145 @@
 <div align="center">
 
-# 👋 Hi, I'm Varun Joshi
+# Varun Joshi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Cloud+Enthusiast;Passionate+About+Clean+Code+%26+Design)](https://git.io/typing-svg)
+**Full Stack Developer · React · Node.js · API Integration**
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400px">
-
-**Software Engineer specializing in Full Stack Development**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-joshi-751358249)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://varunjoshi27.github.io/Portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Varunjoshi04)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunjoshi1127@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-joshi-751358249)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://varunjoshi27.github.io/Portfolio/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Varunjoshi04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varunjoshi1127@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+Full Stack Developer with demonstrated experience building and shipping production-ready web applications across the complete stack — from responsive React interfaces to RESTful Node.js/Express APIs and relational or document databases.
 
-I'm a Full Stack Software Engineer with a passion for building elegant, scalable web applications. I specialize in modern JavaScript frameworks and cloud technologies, focusing on creating seamless user experiences backed by robust server architecture.
+Delivered two commercial AI-integrated products under a contract engagement at Coretecture: a multi-role SaaS resume generation platform and a Chrome extension for real-time article intelligence — owning development end-to-end on both. Known for translating ambiguous requirements into clean, maintainable code, iterating rapidly across feedback cycles, and writing software that is straightforward to extend.
 
-**What drives me:** Turning complex problems into simple, beautiful solutions. I believe great software is invisible to users but impactful in their lives.
-
-- 💼 Building production-ready applications with React, Node.js, and cloud services
-- 🎯 Focused on writing clean, maintainable, and well-tested code
-- 🌱 Currently exploring advanced system design patterns and AWS architecture
-- 🤝 Open to collaborating on innovative projects and contributing to open source
-- 📚 Continuous learner with a growth mindset
+- 🏗️ Two shipped commercial products with real users and iterative release cycles
+- 🤖 Anthropic Claude API integration — prompt engineering, structured outputs, session-consistent AI behaviour
+- 🔧 Comfortable across the stack — component-level React through to Express APIs, auth, and database design
+- 📍 Based in Lucknow, UP · Open to remote and relocation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-CC785C?style=flat-square&logoColor=white)
+
+---
+
+## Experience
+
+### Software Developer — Contract · Remote
+**Coretecture** · Aug 2025 – Jan 2026
+
+Full stack developer across two commercial products, working directly with the product lead through iterative build-review-ship cycles.
+
+---
+
+**Pathweave** · SaaS — Multi-Role Job Targeting & AI Resume Generation
+
+- Designed and built 10+ UI screens from scratch using React and shadcn/ui — covering onboarding, multi-role profile creation, resume generation, and document export flows.
+- Integrated the Anthropic Claude API as the resume generation engine; engineered structured prompts that produced role-specific, ATS-optimised content and reduced manual editing effort by ~70%.
+- Authored a `CLAUDE.md` context specification file to standardise AI behaviour across features, ensuring consistent and reproducible outputs without repeated prompt re-engineering.
+- Implemented form validation, protected routing, and session management — handling edge cases that separate a polished product from a demo.
+- Shipped across 15+ feedback cycles, translating evolving requirements into working features spanning UI design, data flow architecture, and third-party API integration.
+
+`React` `shadcn/ui` `Anthropic Claude API` `Protected Routing` `Session Management`
+
+---
+
+**Newswise** · Chrome Extension — AI-Powered Article Intelligence
+
+- Designed and built the complete Chrome extension architecture — popup UI, content scripts, and background service worker — enabling contextual article Q&A without navigating away from the page.
+- Integrated the Anthropic Claude API for article-grounded Q&A; engineered prompts that kept responses focused and accurate across varied content types and editorial styles.
+- Architected the message-passing layer between popup, content script, and background worker — handling async API calls and rendering streamed responses cleanly in the extension UI.
+- Took the product from wireframe to a working, testable extension independently — covering UX design, implementation, and cross-browser debugging across live news and editorial sites.
+
+`Chrome Extensions API` `Anthropic Claude API` `JavaScript` `Async Messaging` `Prompt Engineering`
+
+---
+
+## Projects
+
+### [Full Stack E-Commerce Platform](https://github.com/varunjoshi27)
+`React` `Node.js` `Express` `SQLite` `JWT` `bcrypt`
+
+End-to-end e-commerce application built with a clean separation of concerns across frontend, API layer, and database.
+
+- User registration and authentication with JWT-based sessions and bcrypt password hashing
+- Product catalogue with filtering, cart management, and a complete order placement flow
+- Normalised SQLite relational schema with RESTful API endpoints and role-based access control
+- Protected client-side routes and clean codebase architecture — straightforward to extend with new categories or payment integrations
+
+---
+
+### [React Weather Application](https://github.com/varunjoshi27/Weather_App) · [Live Demo](https://weather-cardinfo.netlify.app/)
+`React` `OpenWeatherMap API` `Material UI` `Vercel`
+
+Production-deployed weather application with real-time data, thoughtful UX, and polished handling of every state.
+
+- City search with debounced input to minimise redundant API calls; geolocation support to load local weather automatically on page open
+- Dynamic theming using Material UI — gradients, icons, and colour palette shift based on live conditions (clear, cloudy, rain, storm)
+- Graceful handling of invalid cities, failed API calls, and slow networks — loading skeletons included
+- Deployed on Vercel with environment variables configured correctly for production
+
+---
+
+## Currently
+
+- 🔨 Deepening backend architecture patterns — Node.js, Express, MongoDB
+- 📐 Sharpening DSA for technical interviews
+- ✍️ Writing about engineering concepts on [LinkedIn](https://www.linkedin.com/in/varun-joshi-751358249) and [Twitter](https://x.com/Varunjoshi04)
+- 👀 Open to full-time Software Engineer and Full Stack Developer roles
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend & Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunjoshi27&show_icons=true&theme=default&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunjoshi27&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varunjoshi27&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
-
-
-</div>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Analytics Dashboard
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
-<img src="https://img.shields.io/badge/Type-Web_App-blue?style=flat-square" />
-
-**A comprehensive weather application with real-time data visualization**
-
-Built an interactive weather platform featuring location-based forecasts, dynamic charts powered by D3.js, and a clean, responsive interface. Integrated with OpenWeather API for accurate, real-time weather data across global locations.
-
-**Key Features:**
-- Real-time weather data and 7-day forecasts
-- Interactive data visualizations with D3.js
-- Location-based search with autocomplete
-- Responsive design for all devices
-- Beautiful UI with smooth animations
-
-**Tech Stack:**  
-`Vue.js` `D3.js` `Node.js` `OpenWeather API` `Netlify`
-
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://weather-cardinfo.netlify.app/)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/varunjoshi27/Weather_App)
+**Available for full-time roles — Full Stack · Contract experience · Immediate joiner.**
 
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Platform
-
-<img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Full_Stack-blue?style=flat-square" />
-
-**Full-featured online shopping platform with modern architecture**
-
-Developing a complete e-commerce solution with product catalog, shopping cart, user authentication, and payment processing. Features include advanced search and filtering, order management, and an intuitive admin dashboard.
-
-**Key Features:**
-- User authentication with JWT
-- Product catalog with search & filters
-- Shopping cart and wishlist functionality
-- Secure payment gateway integration
-- Admin dashboard for inventory management
-- Order tracking system
-
-**Tech Stack:**  
-`React` `Node.js` `Express` `MongoDB` `Stripe API`
-
-<div align="center">
-
-[![Coming Soon](https://img.shields.io/badge/🚀_Coming_Soon-FF6B35?style=for-the-badge)](https://github.com/varunjoshi27)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔨 Building scalable full-stack applications using MERN stack
-- 📖 Deepening my understanding of system design and architecture patterns
-- ☁️ Exploring AWS services and cloud deployment strategies
-- 🧪 Implementing test-driven development practices
-- 📝 Writing technical articles on web development best practices
-
----
-
-## 💡 My Approach
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
-
-I believe in:
-- **Clean Code:** Writing readable, maintainable code that follows best practices
-- **User-Centric Design:** Building interfaces that are intuitive and delightful to use
-- **Continuous Learning:** Staying updated with the latest technologies and methodologies
-- **Collaboration:** Working effectively in teams and contributing to the developer community
-- **Problem-Solving:** Breaking down complex challenges into manageable solutions
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in discussing new projects, tech trends, or opportunities to collaborate.
-
-**💼 Open to:** Full-time roles, freelance projects, and open-source collaborations
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-joshi-751358249)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://varunjoshi27.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunjoshi1127@gmail.com)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Varunjoshi04)
-[![Dev.to](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/varun_joshi_)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=varunjoshi27&color=6366F1&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/varunjoshi27?label=Followers&style=for-the-badge&color=6366F1)
-
-<br/>
-
-**Thanks for visiting! Feel free to explore my repositories and reach out.** ⭐
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+[LinkedIn](https://www.linkedin.com/in/varun-joshi-751358249) · [Portfolio](https://varunjoshi27.github.io/Portfolio/) · [varunjoshi1127@gmail.com](mailto:varunjoshi1127@gmail.com)
 
 </div>
