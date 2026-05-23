@@ -13,13 +13,12 @@
 
 ---
 
-Full Stack Developer with demonstrated experience building and shipping production-ready web applications across the complete stack — from responsive React interfaces to RESTful Node.js/Express APIs and relational or document databases.
+Full Stack Developer focused on building web applications that are fast, maintainable, and easy to extend. I work across the complete stack — composing React interfaces that are clean and responsive, designing RESTful APIs in Node.js and Express, and modelling data in relational or document databases.
 
-Delivered two commercial AI-integrated products under a contract engagement at Coretecture: a multi-role SaaS resume generation platform and a Chrome extension for real-time article intelligence — owning development end-to-end on both. Known for translating ambiguous requirements into clean, maintainable code, iterating rapidly across feedback cycles, and writing software that is straightforward to extend.
+I care about the quality of the code underneath the surface as much as what the user sees: structured prompt engineering for AI integrations, clear separation between layers, authentication that handles edge cases, and UIs that degrade gracefully under real-world conditions. I collaborate well, move quickly on feedback, and write software other developers can pick up without a lengthy briefing.
 
-- 🏗️ Two shipped commercial products with real users and iterative release cycles
-- 🤖 Anthropic Claude API integration — prompt engineering, structured outputs, session-consistent AI behaviour
-- 🔧 Comfortable across the stack — component-level React through to Express APIs, auth, and database design
+- 🔧 Comfortable across the stack — component architecture through to API design, auth, and database schema
+- 🤖 Experience integrating AI APIs into production workflows — prompt engineering, structured outputs, session-consistent behaviour
 - 📍 Based in Lucknow, UP · Open to remote and relocation
 
 ---
@@ -63,8 +62,6 @@ Delivered two commercial AI-integrated products under a contract engagement at C
 **Coretecture** · Aug 2025 – Jan 2026
 
 Full stack developer across two commercial products, working directly with the product lead through iterative build-review-ship cycles.
-
----
 
 **Pathweave** · SaaS — Multi-Role Job Targeting & AI Resume Generation
 
@@ -138,7 +135,7 @@ Production-deployed weather application with real-time data, thoughtful UX, and 
 
 <div align="center">
 
-**Available for full-time roles — Full Stack · Contract experience · Immediate joiner.**
+**Available for full-time roles — Full Stack · Immediate joiner.**
 
 [LinkedIn](https://www.linkedin.com/in/varun-joshi-751358249) · [Portfolio](https://varunjoshi27.github.io/Portfolio/) · [varunjoshi1127@gmail.com](mailto:varunjoshi1127@gmail.com)
 
